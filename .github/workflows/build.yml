@@ -25,7 +25,7 @@ jobs:
 
       - name: Check artifacts
         run: |
-          find -file -name "*.ttf"
+          find -type f -name "*.ttf"
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
