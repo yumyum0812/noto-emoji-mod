@@ -225,8 +225,7 @@
 		</g>
 	</g>
 	
-		<path style="opacity:0.4;fill:url(#SVGID_28_);enable-background:new    ;" d="M64.02,88.4c0-12.28-9.67-19.73-21.55-21.78   C40.63,66.3,39,66.1,37,65.98V124h54V65.95c-2,0.11-3.93,0.33-5.9,0.67C73.22,68.67,64.02,76.12,64.02,88.4z"/>
-	<g id="shirt_2_">
+		<g id="shirt_2_">
 		<linearGradient id="SVGID_29_" gradientUnits="userSpaceOnUse" x1="63.9995" y1="113.3146" x2="63.9995" y2="123.4314">
 			<stop offset="0.3132" style="stop-color:#A900FE"/>
 			<stop offset="1" style="stop-color:#9000D9"/>
